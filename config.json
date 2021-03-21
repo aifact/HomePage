@@ -1,10 +1,10 @@
 {		
 	"head": {
-		"title": "CC康纳百川",
-		"description": "CC的个人主页，CC康纳百川的小窝",
-		"keywords": "CC的个人主页,CC康纳百川的小窝,CC康纳百川，CCKNBC,ccknbc",
+		"title": "育广达——Xbreeding",
+		"description": "育广达——Xbreeding",
+		"keywords": "育广达——Xbreeding",
 		"favicon": "https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png",
-		"name": "CC的个人主页",
+		"name": "育广达——Xbreeding",
 		"image": "https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png"
 	},
 	"link": {
@@ -12,8 +12,8 @@
 		"cdn": "https://cdn.jsdelivr.net/gh/CCKNBC/home@master"
 	},
 	"index": {
-		"name": "CCKNBC",
-		"description": "一个无趣的人",
+		"name": "Xbreeding",
+		"description": "育广达——Xbreeding",
 		"link": "/",
 		"menu": [
 			{
@@ -29,8 +29,8 @@
 				"img": "https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/speak.svg"
 			},
 			{
-				"name": "小站",
-				"link": "/link",
+				"name": "云盘",
+				"link": "/5212",
 				"out": 0,
 				"img": "https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/safari.svg"
 			},
@@ -42,7 +42,7 @@
 			},
 			{
 				"name": "博客",
-				"link": "https://blog.ccknbc.cc",
+				"link": "/",
 				"out": 1,
 				"img": "https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/blog.svg"
 			}
@@ -54,7 +54,7 @@
 				{
 					"name": "关于",
 					"color": "rgb(245, 150, 170)",
-					"body": "<p>CC康纳百川的主页</p>"
+					"body": "<p>育广达——Xbreeding</p>"
 				}
 			]
 		},
@@ -62,7 +62,7 @@
 		"customCSS": "<style></style>"
 	},
 	"speak": {
-		"quote": "<span>快来看看CC说了啥！</span>",
+		"quote": "<span>育广达——Xbreeding</span>",
 		"owner": "ccknbc",
 		"repo": "speak",
 		"per_page": 5,
@@ -70,15 +70,15 @@
 		"defaultLabelColor": "#ffc107"
 	},
 	"timeline": {
-		"quote": "<span>快来看看CC的更新日志吧！</span>",
-		"owner": "ccknbc",
+		"quote": "<span>育广达——Xbreeding</span>",
+		"owner": "aifact",
 		"repo": "timeline",
 		"per_page": 5,
 		"defaultLabelName": "Deafult",
 		"defaultLabelColor": "#ffc107"
 	},
 	"links": {
-		"quote": "看看CC的站点吧！",
+		"quote": "育广达——Xbreeding更新日志",
 		"link": [
 			{
 				"name": "更新日志",
