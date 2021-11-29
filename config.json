@@ -63,7 +63,7 @@
 	},
 	"speak": {
 		"quote": "<span>育广达——Xbreeding</span>",
-		"owner": "ccknbc",
+		"owner": "aiyou9",
 		"repo": "speak",
 		"per_page": 5,
 		"defaultLabelName": "Deafult",
@@ -71,7 +71,7 @@
 	},
 	"timeline": {
 		"quote": "<span>育广达——Xbreeding</span>",
-		"owner": "aifact",
+		"owner": "aiyou9",
 		"repo": "timeline",
 		"per_page": 5,
 		"defaultLabelName": "Deafult",
@@ -85,7 +85,7 @@
 				"link": "/timeline",
 				"avatar": "https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/clock.png",
 				"img": "https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/clock.png",
-				"description": "快来看看CC的更新日志吧！",
+				"description": "更新",
 				"out": 0
 			},
 			{
@@ -93,14 +93,14 @@
 				"link": "/site",
 				"avatar": "https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/broswer.png",
 				"img": "https://cdn.jsdelivr.net/gh/ccknbc-actions/home@master/assets/logo/broswer.png",
-				"description": "快来看看CC的网址收藏吧！",
+				"description": "网址收藏",
 				"out": 1
 			}
 		]
 	},
 	"about": {
 		"title": "CC's Bash",
-		"quote": "想要了解CC么？",
+		"quote": "关于",
 		"js": ""
 	},
 	"redirect": [
@@ -112,25 +112,6 @@
 			"name": "卓越科技",
 			"image": "https://cdn.jsdelivr.net/gh/zykjofficial/zykjhome.github.io@master/img/Avatar.png",
 			"path": "zykj"
-		},
-		{
-			"url": "https://daohang.ccknbc.cc/",
-			"title": "CC的导航站",
-			"time": 2,
-			"desc": "CC的导航站",
-			"name": "CC的导航站",
-			"image": "https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png",
-			"path": "site",
-			"template":"redirect1"
-		},
-		{
-			"url": "https://www.lete114.top/",
-			"title": "Lete乐特",
-			"time": 2,
-			"desc": "我相信我可以，但我一直在路上，所以我有无限的可能！！",
-			"name": "Lete乐特",
-			"image": "https://www.lete114.top/img/avatar.png",
-			"path": "lete"
 		}
 	],
 	"footer": {
